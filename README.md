@@ -1,16 +1,12 @@
-# staggered
+# Video Player
 
 A new Flutter project.
 
-## Getting Started
+## Screen shots
 
-This project is a starting point for a Flutter application.
+<img src = "https://user-images.githubusercontent.com/121785209/236386645-a41d9d11-67d4-410f-b64f-120b829799b0.png" height=400px/> |
+<video src = "https://user-images.githubusercontent.com/121785209/236388006-b5c20054-98c7-40c3-9344-2cdee7111aa9.mp4" height=400px/>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
